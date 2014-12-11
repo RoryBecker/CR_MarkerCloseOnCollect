@@ -24,4 +24,4 @@ When we hit F12 over LinkedTextHelper class, the file LinkedTextHelper.cs become
 
 Launching the action 'MarkerCloseOnCollect' (I had it binded to Shift+ESC), the file LinkedTextHelper.cs is closed and the caret is positioned on the previously dropped marker
 
-Original Author: *[http://code.google.com/p/dxcorecommunityplugins/wiki/JorgeRowies Jorge Rowies]*
+Original Author: *[Jorge Rowies](http://code.google.com/p/dxcorecommunityplugins/wiki/JorgeRowies)*
