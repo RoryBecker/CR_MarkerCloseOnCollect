@@ -2,7 +2,7 @@
 <Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
     <Identifier Id="CR_MarkerCloseOnCollect">
         <Name>'Marker Close On Collect' for CodeRush</Name>
-        <Author>Rory Becker</Author>
+        <Author>Jorge Rowies</Author>
         <Version>1.0</Version>
         <Description xml:space="preserve">'Marker Close On Collect' provides a new command 'MarkerCloseOnCollect' which will</Description>
         <Locale>1033</Locale>
